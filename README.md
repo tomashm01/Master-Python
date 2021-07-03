@@ -5,4 +5,7 @@ Repositorio donde subire ejercicios y apuntes sobre Python y algunos frameworks 
 - Tuplas
 - Set
 - Diccionarios
-
+## POO
+- Crear clases
+- Encapsulamiento
+- Herencia
