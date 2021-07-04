@@ -5,4 +5,13 @@ Repositorio donde subire ejercicios y apuntes sobre Python y algunos frameworks 
 - Tuplas
 - Set
 - Diccionarios
+## POO
+- Crear clases
+- Encapsulamiento
+- Herencia
+## POO-Avanzado
+- Herencia múltiple
+- Sobrecarga de operadores
+- Polimorfismo
+- Módulos
 
