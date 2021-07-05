@@ -1,0 +1,26 @@
+06:46:59: DEBUG [conexion.py:18] Conexion exitosa: <pymysql.connections.Connection object at 0x7f59c1ac19d0>
+06:46:59: DEBUG [conexion.py:31] Se abrio el cursor: <pymysql.cursors.Cursor object at 0x7f59c1ac1940>
+06:46:59: DEBUG [persona_dao.py:46] UPDATE persona set nombre=%s where id=%s
+06:46:59: ERROR [persona_dao.py:54] Excepcion al actualizar persona__str__ returned non-string (type tuple)
+06:46:59: DEBUG [conexion.py:44] Se cerro el cursor: <pymysql.cursors.Cursor object at 0x7f59c1ac1940>
+06:46:59: DEBUG [conexion.py:51] Se cerro el conexion: <pymysql.cursors.Cursor object at 0x7f59c1ac1940>
+06:46:59: DEBUG [conexion.py:55] Se han cerrado los objetos de conexion y cursor
+06:46:59: DEBUG [persona_dao.py:85] Numero de registros insertados:None
+06:46:59: ERROR [persona_dao.py:70] Excepcion al eliminar personaCursor closed
+06:46:59: DEBUG [conexion.py:44] Se cerro el cursor: <pymysql.cursors.Cursor object at 0x7f59c1ac1940>
+06:46:59: DEBUG [conexion.py:51] Se cerro el conexion: <pymysql.cursors.Cursor object at 0x7f59c1ac1940>
+06:46:59: DEBUG [conexion.py:55] Se han cerrado los objetos de conexion y cursor
+06:46:59: DEBUG [persona_dao.py:90] Numero de registros actualizados:None
+06:47:31: DEBUG [conexion.py:18] Conexion exitosa: <pymysql.connections.Connection object at 0x7f50cd4d09d0>
+06:47:31: DEBUG [conexion.py:31] Se abrio el cursor: <pymysql.cursors.Cursor object at 0x7f50cd4d0940>
+06:47:31: DEBUG [persona_dao.py:46] UPDATE persona set nombre=%s where id=%s
+06:47:31: ERROR [persona_dao.py:54] Excepcion al actualizar persona__str__ returned non-string (type tuple)
+06:47:31: DEBUG [conexion.py:44] Se cerro el cursor: <pymysql.cursors.Cursor object at 0x7f50cd4d0940>
+06:47:31: DEBUG [conexion.py:51] Se cerro el conexion: <pymysql.cursors.Cursor object at 0x7f50cd4d0940>
+06:47:31: DEBUG [conexion.py:55] Se han cerrado los objetos de conexion y cursor
+06:47:31: DEBUG [persona_dao.py:85] Numero de registros insertados:None
+06:47:31: ERROR [persona_dao.py:70] Excepcion al eliminar personaCursor closed
+06:47:31: DEBUG [conexion.py:44] Se cerro el cursor: <pymysql.cursors.Cursor object at 0x7f50cd4d0940>
+06:47:31: DEBUG [conexion.py:51] Se cerro el conexion: <pymysql.cursors.Cursor object at 0x7f50cd4d0940>
+06:47:31: DEBUG [conexion.py:55] Se han cerrado los objetos de conexion y cursor
+06:47:31: DEBUG [persona_dao.py:90] Numero de registros actualizados:None
