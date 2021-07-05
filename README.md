@@ -20,3 +20,4 @@ una o todas las peliculas de un fichero.
 ## Bases de datos
 - Uso de bbdd y SQL en phpmyadmin
 - Uso de la librería pymysql para realizar consultas 
+- Inserción,modificar,eliminar datos de phpmyadmin
