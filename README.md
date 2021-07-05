@@ -22,3 +22,5 @@ una o todas las peliculas de un fichero.
 - Uso de la librería pymysql para realizar consultas 
 - Inserción,modificar,eliminar datos de phpmyadmin
 - Logging en python
+## Django
+Usando el framework Django en PyCharm y aprendiendo a gestionar una base de datos.
