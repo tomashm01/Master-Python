@@ -1,4 +1,3 @@
-from typing import List
 from Pelicula import Pelicula
 import os 
 
@@ -35,7 +34,7 @@ class Catalogo(Pelicula):
       print("Archivo eliminado")
     except Exception as e:
       print(e)
-
+  
   @staticmethod
   def eliminar(nombre):
     try:

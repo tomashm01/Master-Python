@@ -14,4 +14,11 @@ Repositorio donde subire ejercicios y apuntes sobre Python y algunos frameworks 
 - Sobrecarga de operadores
 - Polimorfismo
 - Módulos
-
+## Catálogo de películas
+Práctica donde creo una clase Pelicula y un Catálogo de peliculas y puedo añadir,listar y eliminar 
+una o todas las peliculas de un fichero.
+## Bases de datos
+- Uso de bbdd y SQL en phpmyadmin
+- Uso de la librería pymysql para realizar consultas 
+- Inserción,modificar,eliminar datos de phpmyadmin
+- Logging en python
