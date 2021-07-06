@@ -15,5 +15,3 @@ Múltiples apuntes,ejercicios y proyectos realizados en python de forma autodida
 ## Django
 Realizando un proyecto en Django mediante el IDE PyCharm y gestionando una bases de datos 
 en PHPMyAdmin.
-## Gestión de registros e inicio de sesión con Django
-Empleo el uso de gestión de logins y guardandolos en una base de datos
